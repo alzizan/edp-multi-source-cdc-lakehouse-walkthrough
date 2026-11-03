@@ -1,5 +1,7 @@
 # Walkthrough — Empat Sumber Data, CDC, Query Federated, dan Lakehouse (Time Travel, Branch, Tag)
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Oracle, PostgreSQL, SQL Server, dan data lake Hive disambungkan ke Enterprise Data Platform:
 perubahan data mengalir otomatis lewat CDC, keempatnya di-query dengan satu SQL, lalu disimpan di
 Lakehouse yang bisa "diputar ulang" (time travel), dibekukan (tag), dan dicoba tanpa risiko
